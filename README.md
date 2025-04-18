@@ -7,7 +7,7 @@ Project Overview
 ElectroMart is a modern, fully functional eCommerce platform where users can browse, search, and purchase electronic gadgets. The goal is to build a full-stack application that integrates web and mobile platforms with secure payments and email automation.
 
 
- ✨ Features
+ Features
 
 - 🛍️ Browse a wide range of electronic gadgets
 - 🔍 Search and filter products by name or category
@@ -101,7 +101,7 @@ Edit
 cd mobile
 flutter pub get
 flutter run
-🧠 Future Enhancements
+Future Enhancements
 Product reviews and ratings
 
 Wishlist/favorites feature
